@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FacebookTest</string>
+    <string name="facebook_app_id">1788587788295070</string>
+    <string name="fb_login_protocol_scheme">fb1788587788295070</string>
+    <string name="facebook_client_token">2070030374affb7d124455fb38cb905a</string>
+    <string name="FBLogin">FBLogin</string>
+</resources>

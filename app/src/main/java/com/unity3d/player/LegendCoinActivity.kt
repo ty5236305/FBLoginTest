@@ -42,8 +42,7 @@ class LegendCoinActivity : ComponentActivity() {
                         // Handle exception
                     }
                 })
-
-        // 设置按钮的点击事件监听器
+        
         button.setOnClickListener {
             LoginManager.getInstance().logInWithReadPermissions(this,
                 listOf("user_friends", "gaming_profile", "gaming_user_picture")
